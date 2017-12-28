@@ -1,3 +1,5 @@
+* The project is hosted at [https://ui.arts11.hasura-app.io/] (https://ui.arts11.hasura-app.io/). *
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

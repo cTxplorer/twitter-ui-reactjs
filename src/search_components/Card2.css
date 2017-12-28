@@ -1,0 +1,58 @@
+.card1_s {
+    /* margin: 10px 10px 5px 40px; */
+    width: 20%;
+    position: relative;
+    top: -715px;
+    left: 640px;
+  }
+  .footer1_s {
+    padding: 0px 5%;
+    height: 130px;
+  }
+  .header1_s {
+    height: 33.33%x;
+    width: 100%;
+  }
+  .profilePic1_s {
+    float: left;
+    clear: right;
+    margin-right: 15px;
+    position: relative;
+    top: -50%;
+  }
+  .userInfo1_s {
+    line-height: 0.25;
+    font-size: 0.8em;
+    position: relative;
+    top: -7.5%;
+  }
+  .Button_s {
+    flex: 1;
+  }
+  .title1_s {
+    font-size: 0.90em;
+    font-weight: bold;
+  }
+
+  .followBox4_s {
+	margin: 5px 5px;
+    margin-left: 20px;
+    border: 1.2px solid #69bdee;    
+    border-radius: 20px;
+    width: 146px;
+    position: relative;
+    left:  120px;
+    top: -30px;  
+}
+
+.threeDots2_s {
+    position: relative;
+    left: 120px;
+    top: -25px;  
+}
+
+.desc1_s {
+    clear: both;
+    position: relative;
+    top: -40px;
+}

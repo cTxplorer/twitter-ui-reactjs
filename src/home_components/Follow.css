@@ -1,0 +1,50 @@
+.follow {
+    width: 25%;
+    position: relative;
+    top: -1314px;
+    left: 905px;
+    padding: 5px 10px;
+}
+
+.userName {
+    position: relative;
+    left: 60px;
+    top: -65px;
+    font-size: 0.8em;
+    color: #0084c9; 
+}
+
+.info {
+    color: grey;
+}
+
+
+.followBox1 {
+    /* background-color: #69bdee; */
+    border: 1px solid #69bdee;
+    position: relative;
+    left: 60px;
+    top: -75px;
+    border-radius: 20px;
+    width: 25%;
+    height: 20px;
+}
+
+.followLabel1 {
+    position: relative;
+}
+
+.followDiv {
+    position: relative;
+    top: -50px;
+}
+
+.followDiv2 {
+    position: relative;
+    top: -100px;
+}
+
+.followDiv3 {
+    position: relative;
+    top: -150px;
+}

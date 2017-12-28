@@ -1,0 +1,11 @@
+.searchTitle_s {
+    position: relative;
+    top: 50px;
+    line-height: 0.6em;
+    margin-bottom: 20px; 
+}
+
+.searchTitleDiv_s  {
+    color: white;
+    padding: 10px 50px; 
+}

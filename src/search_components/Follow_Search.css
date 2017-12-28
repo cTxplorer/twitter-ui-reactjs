@@ -1,0 +1,51 @@
+.follow_s {
+    width: 20%;
+    position: relative;
+    top: 80px;
+    left: 50px;
+    padding: 5px 10px;
+}
+
+.userName_s {
+    position: relative;
+    left: 60px;
+    top: -65px;
+    font-size: 0.8em;
+    color: #0084c9; 
+}
+
+.info_s {
+    color: grey;
+}
+
+
+.followBox1_s {
+    /* background-color: #69bdee; */
+    border: 1px solid #69bdee;
+    position: relative;
+    left: 60px;
+    top: -75px;
+    border-radius: 20px;
+    width: 25%;
+    height: 20px;
+}
+
+.followLabel1_s {
+    position: relative;
+    left: -7px;
+}
+
+.followDiv_s {
+    position: relative;
+    top: -50px;
+}
+
+.followDiv2_s {
+    position: relative;
+    top: -100px;
+}
+
+.followDiv3_s {
+    position: relative;
+    top: -150px;
+}

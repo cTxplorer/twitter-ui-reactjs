@@ -1,0 +1,21 @@
+.trends {
+    width: 25%;
+    position: relative;
+    top: -1365px;
+    left: 40px;
+    padding: 5px 10px;
+}
+
+.trendTitle {
+    padding-top: 10px; 
+    line-height: 0em;
+    font-size: 0.8em;
+    font-weight: bold;
+    color: #2db5f5e0;
+}
+
+.trendFooter {
+    color: grey;
+    line-height: 0px;
+    font-size: 0.7em; 
+}

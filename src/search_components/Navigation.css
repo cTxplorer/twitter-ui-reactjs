@@ -1,0 +1,24 @@
+.navigation_s {
+    position: relative;
+    top: 30px;
+}
+
+.navigationDiv_s  {
+    padding: 2px 20px; 
+}
+
+.followBox2_s {
+	margin: 5px 5px;
+    margin-left: 20px;
+    border: 1.2px solid #69bdee;    
+    border-radius: 20px;
+    width: 146px;
+    position: relative;
+    left: 420px;
+}
+
+.threeDots_s {
+    position: relative;
+    left: 420px;
+    top: 5px;  
+}

@@ -1,0 +1,46 @@
+.card {
+  /* margin: 10px 10px 5px 40px; */
+  width: 25%;
+  position: relative;
+  top: 60px;
+  left: 40px;
+}
+.footer {
+  padding: 0px 5%;
+  height: 120px;
+}
+.header {
+  height: 33.33%x;
+  width: 100%;
+}
+.profilePic {
+  float: left;
+  clear: right;
+  margin-right: 15px;
+  position: relative;
+  top: -50%;
+}
+.userInfo {
+  line-height: 0.25;
+  font-size: 0.8em;
+  position: relative;
+  top: -7.5%;
+}
+.statContainer {
+  display: flex;
+  width: 100%;
+  position: relative;
+  top: -40px;
+}
+.Button {
+  flex: 1;
+}
+.title {
+  font-size: 0.90em;
+  font-weight: bold;
+}
+.statnumber {
+  font-weight: bold;
+  line-height: 0.2;
+  color: #0084b4;
+}

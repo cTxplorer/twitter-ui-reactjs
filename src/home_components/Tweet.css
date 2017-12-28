@@ -1,0 +1,30 @@
+.tweet {  
+    position: relative;
+    top: -245px;
+    left: 29%;
+    padding: 5px 10px;
+    width: 500px;
+}
+
+.tweetBox {
+    position: relative;
+    left: 40px;
+    top: -50px;
+    width: 400px;
+}
+
+.imageIcon {
+    position: relative;
+    top: -40px;
+    left: 410px; 
+}
+
+.tweetField {
+    position: absolute; 
+}
+
+.profilePic1 {
+    position: relative;
+    top: 10px;
+    left: 0;
+}

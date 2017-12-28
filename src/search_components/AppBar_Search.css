@@ -1,0 +1,52 @@
+.appBarStyle_s {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  padding: 5px 40px;
+  position: fixed;
+  z-index: 100;
+}
+
+.twitterBirdIcon_s {
+	margin-left: 100px;
+	height: 50px;
+}
+
+.searchField_s {
+	height: 10px;
+}
+
+.searchBox_s {
+	margin: 5px 5px 5px 230px;
+	padding-left: 10px;
+    background-color: #E1F5FE;
+    border-radius: 25px;
+	width: 15%;
+	display: flex;
+}
+
+.searchIcon_s {
+	margin-right: 5px;
+	margin-top: 3px;
+}
+
+.profileIcon_s {
+	margin-top: 5px;
+	margin-left: 30px;
+	height: 50px;
+}
+
+.followBox_s {
+	margin: 5px 5px;
+	margin-left: 20px;
+    border-radius: 25px;
+	background-color: #69bdee;
+}
+
+.followLabel_s {
+	position: relative;
+	bottom: 4px;
+	width: 100%;
+	font-weight: bold; 
+	font-size: 0.8em;
+}	

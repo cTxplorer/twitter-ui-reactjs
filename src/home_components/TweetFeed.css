@@ -1,0 +1,47 @@
+.tweetFeed {
+    position: relative;
+    top: -250px;
+    left: 29%;
+    margin-top: 10px;
+    padding: 10px 10px;
+    width: 500px;
+    width: 500px;    
+}
+
+.authorPic {
+    position: relative;
+    left: -420px;
+    top: -10px;
+}
+
+.authorName {
+    position: relative;
+    left: 60px;
+    top: -70px;
+    font-size: 0.8em;
+    color: #0084c9; 
+}
+
+.info {
+    color: grey;
+}
+
+.tweetContent {
+    position: relative; 
+    left: 60px;
+    top: -75px;
+    width: 420px;
+    line-height: 1.5em;
+}
+
+.hash {
+    color: #0084c9;
+}
+
+.pic {
+    position: relative;
+    left: 60px;
+    top: -75px;
+    width: 420px;
+    border-radius: 5px;
+}

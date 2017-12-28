@@ -1,0 +1,67 @@
+.tweetFeed_s {
+    position: relative;
+    top: -700px;
+    left: 340px;
+    margin-top: 10px;
+    padding: 10px 10px;
+    width: 570px;  
+}
+
+.authorPic_s {
+    position: relative;
+    left: -420px;
+    top: -10px;
+}
+
+.authorPic4_s {
+    position: relative;
+    left: 0;
+    /* top: -10px; */
+}
+
+.authorName_s {
+    position: relative;
+    left: 60px;
+    top: -70px;
+    font-size: 0.8em;
+    color: #0084c9; 
+}
+
+.info_s {
+    color: grey;
+}
+
+.tweetContent_s {
+    position: relative; 
+    left: 60px;
+    top: -75px;
+    width: 480px;
+}
+
+.hash_s {
+    color: #0084c9;
+}
+
+.pic_s {
+    position: relative;
+    left: 60px;
+    top: -75px;
+    width: 480px;
+    border-radius: 5px;
+}
+
+.likes_s {
+    position: relative;
+    top: -50px;
+    left: 75px;
+}
+
+.feed_s {
+    position: relative;
+    top: -50px;
+}
+
+.feed1_s {
+    position: relative;
+    top: -100px;
+}

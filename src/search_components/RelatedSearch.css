@@ -1,0 +1,20 @@
+.relatedPaper_s {
+    position: relative;
+    left: 50px;
+    top: 70px;
+    /* height: 50px; */
+    padding: 5px 10px;
+}
+
+.relatedDiv_s {
+    position: relative;
+}
+
+ul_s {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 20px;
+    line-height: 1.5em;
+    color: #69bdee;
+}

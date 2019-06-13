@@ -1,8 +1,12 @@
-The project is hosted at https://ui.arts11.hasura-app.io/ (discontinued).
+# Cloning Twitter Homepage and Searchpage
+
+## Major Technologies:
+1. ReactJs
+2. Material-UI
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Below are the app screenshot :
+## Project screenshot :
 
 * Homepage screenshot
 ![homepage screenshot](https://github.com/cTxplorer/twitter-ui-reactjs/blob/master/Screenshot%20-%20Twitter%20Homepage.png "homepage screenshot")
